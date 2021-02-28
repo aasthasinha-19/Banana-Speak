@@ -1,0 +1,77 @@
+h1{
+    text-align:center;
+    font-family:'kalam',cursive;
+    color:blue;
+}
+.container{
+    height:100px;
+    background-color: yellow;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+
+}
+#txt-input{
+    display:block;
+    margin:auto;
+    width:400px;
+    height:15vh;
+    border:5px solid blue;
+    font-family: 'kalam',cursive;
+}
+.center{
+    padding:80px;
+}
+#btn-translate{
+    height: 50px;
+    width:200px;
+    display:block;
+    margin:auto;
+    background-color: yellow;
+    color:blue;
+    font-family:'kalam',cursive;
+    font-weight: bold;
+    font-size:large;
+    border:5px solid blue;
+}
+#btn-translate:hover{
+    background-color: blue;
+    color:yellow;
+    border:5px solid yellow;
+}
+.indicate{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding:40px;
+    font-family:'kalam',cursive;
+    font-size:large;
+    font-weight:bold;
+    color:blue;
+    height: 60px;
+}
+
+#output{
+    display:block;
+    margin:auto;
+    padding:50px;
+    width:350px;
+    height:5vh ;
+    border:5px solid blue;
+    font-family:'kalam',cursive;
+}
+.footer{
+    display:block;
+    margin-top:100px;
+    height:150px;
+    background-color: yellow;
+    color:blue;
+    font-family: 'kalam',cursive;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+
+}
+p{
+    font-size:15px;
+}
